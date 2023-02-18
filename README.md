@@ -5,7 +5,7 @@ Working with translation files
 
 1-Clone the repository
 ```
-https://github.com/aymensmida/Localization-Laravel-approach-1.git
+git clone https://github.com/aymensmida/Localization-Laravel-approach-1.git
 ```
 
 2- cd into the folder with this command:
